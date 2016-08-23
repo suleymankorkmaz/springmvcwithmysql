@@ -29,4 +29,4 @@ CREATE TABLE `contact` (
 ) ENGINE=InnoDB AUTO_INCREMENT=80 DEFAULT CHARSET=utf8;
 ```
 
-Application can be used by entering ```"localhost:8080/ContactList/person"``` to your web browser.
+Application can be used by entering ```"localhost:8080/ContactListMySQL/person"``` to your web browser.
